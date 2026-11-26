@@ -1,0 +1,6 @@
+{
+  "name": "Metro Dash",
+  "description": "Fast-paced 3D subway rail runner built for tablet swipe and keyboard play.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
